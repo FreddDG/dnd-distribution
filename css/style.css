@@ -126,7 +126,12 @@ font-family: 'Poppins', sans-serif;
   width: auto;
 }
 
+/***finished projects logo***/
+.site-logo {
+  background-color: black !important;
 
+}
+  
 
 /*** Freddie css ***/
 .container,
