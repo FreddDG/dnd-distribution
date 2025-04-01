@@ -74,6 +74,7 @@ font-family: 'Poppins', sans-serif;
 
 
 /*** Freddie css ***/
+
 .row {
   justify-content: space-around;
 }
@@ -129,8 +130,11 @@ font-family: 'Poppins', sans-serif;
 /***finished projects logo***/
 .site-logo {
   background-color: black !important;
-
 }
+.site-logo-wrap .site-logo {
+  min-width: max-content !important;
+}
+
 /***images***/
 .ltn__feature-icon {
   overflow: hidden;
