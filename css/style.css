@@ -81,6 +81,9 @@ font-family: 'Poppins', sans-serif;
 .ltn__header-top-area .ltn__social-media ul li{
   font-size: 40px !important;
 }
+.ltn__main-menu ul {
+  margin-left: 260px;
+}
 
 .ltn__header-middle-area.ltn__header-sticky.ltn__sticky-bg-black {
   margin-top: -50px;
