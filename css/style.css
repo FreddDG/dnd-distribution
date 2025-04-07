@@ -90,6 +90,10 @@ font-family: 'Poppins', sans-serif;
   margin-bottom: 30px;
 
 }
+.site-logo img {
+  background-color: #000;
+  max-width: 100%;
+}
 
 .ltn__search-by-place-item {
  padding: 0% !important;
