@@ -81,9 +81,6 @@ font-family: 'Poppins', sans-serif;
 .ltn__header-top-area .ltn__social-media ul li{
   font-size: 40px !important;
 }
-.ltn__main-menu ul {
-  margin-left: 260px;
-}
 
 .ltn__header-middle-area.ltn__header-sticky.ltn__sticky-bg-black {
   margin-top: -50px;
@@ -93,9 +90,7 @@ font-family: 'Poppins', sans-serif;
   margin-bottom: 30px;
 
 }
-.logo {
-  margin-bottom: 20px;
-}
+
 .ltn__search-by-place-item {
  padding: 0% !important;
  gap: none !important;
@@ -128,14 +123,6 @@ font-family: 'Poppins', sans-serif;
 }
 .ltn__feature-icon {
   width: auto;
-}
-
-/***finished projects logo***/
-.site-logo {
-  background-color: black !important;
-}
-.site-logo-wrap .site-logo {
-  min-width: max-content !important;
 }
 
 /***images***/
