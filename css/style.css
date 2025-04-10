@@ -92,7 +92,6 @@ font-family: 'Poppins', sans-serif;
 }
 .site-logo img {
   background-color: #000;
-  max-width: 100%;
 }
 
 .ltn__search-by-place-item {
@@ -701,7 +700,7 @@ ol li {
 .white-color-im {
   color: var(--white) !important; }
 
-.ltn__primary-bg {
+.ltn__primary-.ltn__breadcrumb-area{
   background-color: var(--ltn__primary-color); }
 
 .ltn__primary-bg-2 {
@@ -4430,7 +4429,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
   margin-right: 0px; }
 
 .ltn__main-menu > ul > li > a {
-  font-size: 18px;
+  font-size: 14px;
   padding: 20px 10px;
   display: inline-block;
   white-space: nowrap;
